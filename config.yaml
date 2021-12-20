@@ -1,0 +1,5 @@
+docker_version: 20.10.9
+etcd_version: v3.5.1
+kubernetes_release_version: v1.22.3
+calico_version: v3.20
+cfssl_version: v1.6.1
